@@ -1,0 +1,6 @@
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\bin\Debug\ConsoleFiller.exe.config
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\bin\Debug\ConsoleFiller.exe
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\bin\Debug\ConsoleFiller.pdb
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\obj\Debug\ConsoleFiller.csprojAssemblyReference.cache
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\obj\Debug\ConsoleFiller.exe
+C:\Users\BETEPAH\source\repos\ConsoleFiller\ConsoleFiller\obj\Debug\ConsoleFiller.pdb
